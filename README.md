@@ -15,6 +15,7 @@ Useful Links :
 1. Sending an email with python: https://www.youtube.com/watch?v=JRCJ6RtE3xU&t=1522s
 2. I have used local environment variable which contains the information regarding my email, password and api token for pushbullet. I used it so that I don't have to write my credentials. I will attach a link which contains information about creating environment variables.
 Environment Variables (Windows): https://www.youtube.com/watch?v=IolxqkL7cD8
+
 Environment Variables (Mac and linux): https://www.youtube.com/watch?v=5iWhQWVXosU&t=78s
 3. Open CV Security Camera: https://www.youtube.com/watch?v=Exic9E5rNok
 4. Sending Notification: https://www.youtube.com/watch?v=tbzPcKRZlHg
