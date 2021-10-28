@@ -65,10 +65,10 @@ while True:
                 HOUR.append(datetime.datetime.now().strftime("%d-%m-%Y-%H"))
                 try:
                     if len(HOUR) == 1:
-                        send_email('rituagarwalpatwari@gmail.com', f"{current_time}.png")
+                        send_email('youremailid@xyz.com', f"{current_time}.png")
                         send_notification()
                     elif HOUR[-1] != HOUR[-2]:
-                        send_email('rituagarwalpatwari@gmail.com', f"{current_time}.png")
+                        send_email('youremailid@xyz.com', f"{current_time}.png")
                         send_notification()
                 except:
                     print('No Wifi Available.')
