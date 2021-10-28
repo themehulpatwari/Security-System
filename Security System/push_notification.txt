@@ -1,0 +1,3 @@
+Movement on Camera Detected.
+Image Sent on Registered Email.
+Constant Video of the Intruder is currently being saved on the device.
